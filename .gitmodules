@@ -1,0 +1,9 @@
+[submodule "my-blog/themes/mini"]
+	path = my-blog/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "my-blog/themes/hugo-book"]
+	path = my-blog/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "my-blog/themes/ananke"]
+	path = my-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
